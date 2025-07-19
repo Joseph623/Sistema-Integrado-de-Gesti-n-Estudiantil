@@ -38,13 +38,6 @@ Este proyecto es una aplicación educativa desarrollada en Java con formularios 
 
 ---
 
-## 📸 Capturas del Sistema
-
-> *(Agrega aquí imágenes de tus formularios y módulos)*
-<img width="396" height="205" alt="image" src="https://github.com/user-attachments/assets/fecd1ff0-c983-46a3-af5b-6597959e1674" />
-
----
-
 ## ⚙️ Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
