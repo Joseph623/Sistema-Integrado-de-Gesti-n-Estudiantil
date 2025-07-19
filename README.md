@@ -13,7 +13,9 @@ Este proyecto es una aplicación educativa desarrollada en Java con formularios 
 | PostgreSQL        | Matrícula y pagos                             |
 | MongoDB           | Registro de fichas médicas                    |
 | Cassandra (Astra) | Registro de asistencia diaria                 |
+| Redis             | Historial de actividad del usuario            |
 | Git + GitHub      | Control de versiones y publicación del código |
+
 
 ---
 
@@ -37,6 +39,27 @@ Este proyecto es una aplicación educativa desarrollada en Java con formularios 
 - Tiempos de respuesta por módulo: entre 0.18 y 0.65 segundos
 
 ---
+
+## 📦 Librerías externas (.jar)
+
+Asegurarse de agregar las siguientes dependencias para el correcto funcionamiento del sistema:
+
+- astra-db-java-1.0.0.jar
+- bson-5.5.1.jar
+- jackson-core-2.15.2.jar
+- jackson-databind-2.15.2.jar
+- jackson-annotations-2.15.2.jar
+- jackson-datatype-jsr310-2.15.2.jar
+- jedis-5.1.3.jar
+- mongodb-driver-core-5.5.1.jar
+- mongodb-driver-sync-5.5.1.jar
+- mysql-connector-j-9.3.0.jar
+- postgresql-42.7.7.jar
+- retry4j-0.15.0.jar
+- RojeruSan.full_9.6.jar
+- slf4j-api-2.0.9.jar
+- slf4j-simple-2.0.9.jar
+  
 
 ## ⚙️ Cómo ejecutar el proyecto
 
