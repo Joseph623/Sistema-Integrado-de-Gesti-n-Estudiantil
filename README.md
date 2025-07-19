@@ -1,6 +1,6 @@
 # 🎓 Sistema Integrado de Gestión Estudiantil
 
-Este proyecto es una aplicación educativa desarrollada en Java con formularios (Java Swing), que permite gestionar de manera integrada la información **académica, administrativa, médica y de asistencia** de los estudiantes, conectando múltiples bases de datos heterogéneas.
+Este proyecto es una aplicación educativa desarrollada en Java con formularios (Java Swing), que permite gestionar de manera integrada la información **académica, administrativa, médica y de asistencia** de los estudiantes, conectando múltiples bases de datos.
 
 ---
 
